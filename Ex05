@@ -12,6 +12,7 @@ class Ccc extends Bbb implements iAaa {         //定義類別Ccc繼承Bbb
         System.out.println("num=" + num);            //輸出num
     }
 }
+
 public class Ex05 {
     public static void main(String[] args) {
         Ccc obj = new Ccc(); 
